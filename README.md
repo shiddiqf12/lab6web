@@ -41,7 +41,9 @@ Untuk menggunakan CSS Framework ini kita dapat menggunakan starter template sepe
 </html>
 # Langkah-langkah Praktikum
 Membuat dokumen HTML dengan nama lab6_css_framework dan tambahkan bootsrap CSS 
-![1](https://user-images.githubusercontent.com/73062038/164301457-bf77bddc-a887-4a08-bc92-1a9f19c40cb0.jpg)
+
+![1](https://user-images.githubusercontent.com/73062038/164301927-f14c437d-5ad5-4b32-a905-9a26bd300f5e.jpg)
+
 
 Menambahkan Menu 
 ![2](https://user-images.githubusercontent.com/73062038/164301473-eb31e618-f4a6-4bdb-af4a-3e16f728b93a.jpg)
