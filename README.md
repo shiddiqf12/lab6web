@@ -58,9 +58,11 @@ Menambahkan Artikel
 ![5](https://user-images.githubusercontent.com/73062038/164301569-2aa9ef0e-0cee-481a-ada3-e62751699e81.jpg)
 
 Menambahkan Sidebar dan footer 
+![6](https://user-images.githubusercontent.com/73062038/164302112-840f13a3-ee73-43cb-934e-4ef39ae2e44f.jpg)
 
 Hasil
 untuk hasilnya akan tampil seperti berikut :
+![7](https://user-images.githubusercontent.com/73062038/164302135-e5a34eba-369e-4bcc-80f3-af92d75514fd.jpg)
 
 ---------- SELESAI ------------
 -------------------- SEKIAN TERIMAKASIH -----------------------
