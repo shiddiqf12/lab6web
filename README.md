@@ -1,7 +1,7 @@
 # lab6web
-Muhammad Shiddiq Fadlurrohman 
-312010413
-TI.20.B2
+            Muhammad Shiddiq Fadlurrohman 
+                    312010413
+                    TI.20.B2
 
 # Pratikum 6 : CSS Framework
 # Pengenalan Web Framework
